@@ -11,40 +11,40 @@
       "glyph": "exchanger",
       "label": "Austenitic wire under suitable temperature",
       "role": "path",
-      "x": 0.12,
-      "y": 0.5
+      "x": 0.14,
+      "y": 0.32
     },
     {
       "id": "n2",
       "glyph": "plate",
       "label": "Stress",
       "role": "structure",
-      "x": 0.31,
-      "y": 0.5
+      "x": 0.5,
+      "y": 0.32
     },
     {
       "id": "n3",
       "glyph": "lattice",
       "label": "Stress-induced martensite",
       "role": "path",
-      "x": 0.5,
-      "y": 0.5
+      "x": 0.86,
+      "y": 0.32
     },
     {
       "id": "n4",
       "glyph": "plate",
       "label": "Reverse transformation",
       "role": "structure",
-      "x": 0.69,
-      "y": 0.5
+      "x": 0.14,
+      "y": 0.7
     },
     {
       "id": "n5",
       "glyph": "knit",
       "label": "Qualitative hysteresis loop",
       "role": "path",
-      "x": 0.88,
-      "y": 0.5
+      "x": 0.86,
+      "y": 0.7
     }
   ],
   "edges": [
