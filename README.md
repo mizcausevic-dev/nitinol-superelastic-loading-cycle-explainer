@@ -4,6 +4,8 @@
 
 Live plate: https://mizcausevic-dev.github.io/nitinol-superelastic-loading-cycle-explainer/
 
+Repository: https://github.com/mizcausevic-dev/nitinol-superelastic-loading-cycle-explainer
+
 ## What this is
 
 An interactive anatomy plate for Nitinol Superelastic Loading Cycle. Play, scrub, or jump the five stages. The same frame always draws the same picture.
